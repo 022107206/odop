@@ -29,5 +29,8 @@ def bar():
 
 __all__ = ["bar"]
 
+#%%
+print("hello")
 
-__slots__ = ("")
+#%%
+print("world")
